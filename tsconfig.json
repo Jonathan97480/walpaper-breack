@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "noEmitOnError": false,
+      
+        
+    },
+    "files": [
+        "src/app.ts"
+    ]
+}
